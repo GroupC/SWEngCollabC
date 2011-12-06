@@ -28,6 +28,7 @@ public class ConsoleView {
         /*TODO implement */
         //System.out.println("Type '/load' to load an existing game (NOT YET)");
         System.out.println("Type '/exit' to quit");
+        //This is a test!
     }
 
     public String getPlayerMode(){
