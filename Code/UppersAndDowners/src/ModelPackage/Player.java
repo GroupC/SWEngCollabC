@@ -27,6 +27,7 @@ public abstract class Player {
         this.playerImage = playerImage;
         //SVN Change test
         //Also online test
+        //Local test
     }
 
     public String getName(){
