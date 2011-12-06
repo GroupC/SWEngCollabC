@@ -16,6 +16,7 @@ public class Human extends Player{
     }
 
     public void move(int roll){
+        //Do stuff
         try {
           throw new Exception("Not yet implemented");
         } catch(Exception e) {
