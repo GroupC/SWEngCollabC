@@ -26,6 +26,7 @@ public abstract class Player {
         this.name = name;
         this.playerImage = playerImage;
         //SVN Change test
+        //Also online test
     }
 
     public String getName(){
