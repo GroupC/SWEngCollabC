@@ -28,6 +28,7 @@ public abstract class Player {
         //SVN Change test
         //Also online test
         //Local test
+        //Demo test
     }
 
     public String getName(){
