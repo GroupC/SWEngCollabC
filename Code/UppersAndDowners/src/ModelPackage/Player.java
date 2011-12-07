@@ -33,6 +33,7 @@ public abstract class Player {
 
     public String getName(){
         return name;
+        //Get name test
     }
 
     public int getGamesWon(){
