@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/AI.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/Board.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/Die.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/GameScores.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/Human.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/ModifierSquare.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/Player.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ModelPackage/SpecialSquare.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ViewPackage/ConsoleView.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ViewPackage/GUI.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ControllerPackage/FrameController.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ControllerPackage/GameDriver.java</file>
+        <file>file:/Users/desireeeexx/Desktop/SWEngCollabC/Code/UppersAndDowners/src/ControllerPackage/MVC.java</file>
+    </open-files>
 </project-private>
